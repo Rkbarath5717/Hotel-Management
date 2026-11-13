@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1794503015920,
+    "title": "Vivanta",
+    "description": "A premium hotel located in Race Course, Coimbatore. It offers elegant rooms and modern interiors. Guests can enjoy swimming pool, spa and fitness facilities. It is suitable for business trips, family vacations and special occasions.",
+    "latitude": 11.002236,
+    "longitude": 76.973416,
+    "price": 2500,
+    "image": "/uploads/1794503015896.jpg"
+  },
+  {
+    "id": 1794503108872,
+    "title": "The Residency Towers",
+    "description": "A stylish hotel situated on Avinashi Road. It provides spacious rooms with comfortable interiors. Guests can enjoy fine dining, fitness facilities and relaxing services. It is a convenient choice for business and leisure travellers",
+    "latitude": 11.0181,
+    "longitude": 76.9675,
+    "price": 2000,
+    "image": "/uploads/1794503108867.jpg"
+  },
+  {
+    "id": 1794503202325,
+    "title": "GK Residency",
+    "description": "A luxury hotel inspired by the architecture of the Chola dynasty. It features elegant rooms and premium accommodation. Guests can enjoy multiple restaurants, swimming pools and spa facilities. It is suitable for business meetings, family stays and luxury vacations.",
+    "latitude": 13.01048,
+    "longitude": 80.22051,
+    "price": 3000,
+    "image": "/uploads/1794503202311.jpg"
+  },
+  {
+    "id": 1794503242650,
+    "title": "Rubeen Luxury",
+    "description": "A contemporary hotel located on Cathedral Road. It offers stylish rooms with modern facilities. Guests can enjoy premium dining and comfortable accommodation. It is suitable for business travellers, families and tourists.",
+    "latitude": 13.041324,
+    "longitude": 80.216873,
+    "price": 4000,
+    "image": "/uploads/1794503242644.jpg"
+  },
+  {
+    "id": 1794503297510,
+    "title": "Le Méridien Coimbatore",
+    "description": "A luxury hotel located on Avinashi Road, Neelambur. It features spacious rooms and elegant interiors. Guests can enjoy multiple dining options, a swimming pool and fitness facilities. It is suitable for corporate events, weddings and leisure stays.",
+    "latitude": 11.05915,
+    "longitude": 77.07486,
+    "price": 3500,
+    "image": "/uploads/1794503297504.jpg"
+  },
+  {
+    "id": 1794503372323,
+    "title": "ITC GRAND CHOLAN",
+    "description": "A luxury urban hotel located on Residency Road. It offers elegant rooms with nature-inspired interiors. Guests can enjoy fine dining, spa and fitness facilities. It is ideal for business travellers and luxury holidays.",
+    "latitude": 12.96712,
+    "longitude": 77.59572,
+    "price": 3000,
+    "image": "/uploads/1794503372316.jpg"
+  },
+  {
+    "id": 1794503421830,
+    "title": "Taj MG",
+    "description": "A premium hotel located in the heart of Bengaluru. It provides comfortable rooms and modern hospitality services. Guests can enjoy restaurants, a swimming pool and wellness facilities. It is suitable for business trips, shopping visits and family stays.",
+    "latitude": 12.97323,
+    "longitude": 77.61965,
+    "price": 2500,
+    "image": "/uploads/1794503421825.jpg"
+  },
+  {
+    "id": 1794503492135,
+    "title": "ITC Grand Goa Resort & Spa",
+    "description": "A luxury beachfront resort located in South Goa. It features beautiful gardens and Portuguese-inspired architecture. Guests can enjoy beach access, swimming pools, spa and restaurants. It is perfect for family holidays, weddings and relaxation.",
+    "latitude": 15.327638,
+    "longitude": 73.899658,
+    "price": 3000,
+    "image": "/uploads/1794503492130.jpg"
+  },
+  {
+    "id": 1794503555846,
+    "title": "Grand Hyatt",
+    "description": "A luxury resort overlooking the beautiful Bambolim Bay. It offers elegant rooms and scenic surroundings. Guests can enjoy swimming pools, spa, restaurants and recreational activities. It is suitable for families, couples and destination weddings.",
+    "latitude": 15.451,
+    "longitude": 73.852,
+    "price": 4000,
+    "image": "/uploads/1794503555840.jpg"
+  },
+  {
+    "id": 1794503605345,
+    "title": "RK RESIDENCY",
+    "description": "A beautiful beachfront resort with Portuguese-inspired architecture. It provides comfortable rooms with scenic sea views. Guests can enjoy swimming pools, beach activities and restaurants. It is a wonderful destination for relaxing holidays and family trips.",
+    "latitude": 15.4561,
+    "longitude": 73.8138,
+    "price": 3500,
+    "image": "/uploads/1794503605339.jpg"
+  }
+]

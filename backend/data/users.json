@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Vignesh",
+    "email": "vignesh@gmail.com",
+    "passwordHash": "$2b$10$4f0/jJknzd70ASQq7plxjeeltlduD5u15UrbliYxG8gu2OOXPSbna",
+    "role": "user"
+  },
+  {
+    "name": "Sabari",
+    "email": "sabari@gmail.com",
+    "passwordHash": "$2b$10$2A6yTMHJapZFfIHvePPUqevMFec7BnXdCDZcraP2Vl1UvPvgQ9fzC",
+    "role": "user"
+  },
+  {
+    "id": 1794493091718,
+    "name": "sachin",
+    "email": "sachinkannan@gmail.com",
+    "passwordHash": "$2b$10$oVioG/88KPLmsNj18.3hWukydKxfz2R1jpWg91H6HQS/fIVHH5BeC",
+    "role": "user"
+  }
+]
