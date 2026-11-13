@@ -223,7 +223,22 @@ important comment:-
 - Add email verification and password reset.
 - Deploy the application to a cloud platform.
 
-## 11. Conclusion
+
+## 11. System Architecture
+
+The application follows a client-server architecture.
+
+- Frontend: React.js with Vite.
+- Backend: Node.js and Express.js.
+- Communication: REST API using HTTP requests.
+- Authentication: JWT-based authentication.
+- Storage: JSON files for demo data.
+- Image Management: Multer for image uploads.
+
+The frontend communicates with the backend through REST API endpoints to perform hotel management operations.
+
+
+## 12. Conclusion
 
 The Hotel Management System demonstrates the implementation of a full-stack web application using React.js, Node.js and Express.js. It combines frontend development, REST API integration, authentication, authorization, file uploads and hotel information management in a single application.
 
