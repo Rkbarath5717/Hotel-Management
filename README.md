@@ -144,9 +144,6 @@ pagination
 
 ## 7. Backend API Endpoints
 ------------------------------------------------------------------
-
-## 7. Backend API Endpoints
-
 | HTTP Method | Endpoint | Purpose |
 |---|---|---|
 | POST | `/api/auth/register` | Register a new user |
