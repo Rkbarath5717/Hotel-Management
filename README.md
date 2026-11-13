@@ -78,55 +78,53 @@ The main objective of this project is to simplify hotel information management t
 
 ## 5. Project Folder Structure
 
-```text
-Hotel-Management/
-│
-├── backend/
-│   ├── data/
-│   │   ├── hotels.json
-│   │   ├── users.json
-│   │   └── admins.json
-│   │
-│   ├── intermidiater/
-│   │   └── authentication.js
-│   │
-│   ├── uploads/
-│   │
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
-├── src/
-│   ├── assets/
-│   │
-│   ├── Components/
-│   │   ├── HotelCard.jsx
-│   │   ├── HotelForm.jsx
-│   │   └── Navbar.jsx
-│   │
-│   ├── Pages/
-│   │   ├── HotelDetailPage.jsx
-│   │   ├── HotelListPage.jsx
-│   │   ├── LoginPage.jsx
-│   │   └── RegisterPage.jsx
-│   │
-│   ├── Store/
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   ├── Login.jsx
-│   └── main.jsx
-│
-├── public/
-│   ├── hotel-logo.png
-│   └── icons.svg
-│
-├── index.html
-├── package.json
-├── package-lock.json
-└── vite.config.js
-```
+    Hotel-Management/
+    |
+    |-- backend/
+    |   |-- data/
+    |   |   |-- hotels.json
+    |   |   |-- users.json
+    |   |   |-- admins.json
+    |   |
+    |   |-- middleware/
+    |   |   |-- authentication.js
+    |   |
+    |   |-- uploads/
+    |   |-- server.js
+    |   |-- package.json
+    |   |-- package-lock.json
+    |
+    |-- src/
+    |   |-- assets/
+    |   |-- Components/
+    |   |   |-- HotelCard.jsx
+    |   |   |-- HotelForm.jsx
+    |   |   |-- Navbar.jsx
+    |   |
+    |   |-- Pages/
+    |   |   |-- HotelDetailPage.jsx
+    |   |   |-- HotelListPage.jsx
+    |   |   |-- LoginPage.jsx
+    |   |   |-- RegisterPage.jsx
+    |   |
+    |   |-- Store/
+    |   |-- App.jsx
+    |   |-- App.css
+    |   |-- index.css
+    |   |-- Login.jsx
+    |   |-- main.jsx
+    |
+    |-- public/
+    |   |-- hotel-logo.png
+    |   |-- icons.svg
+    |
+    |-- index.html
+    |-- package.json
+    |-- package-lock.json
+    |-- README.md
+    |-- .gitignore
+    |-- vite.config.js
+
 
 
 ## 6. Component Description
