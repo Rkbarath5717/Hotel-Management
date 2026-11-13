@@ -157,28 +157,29 @@ pagination
 **Note:** Admin-only operations must be protected by authentication and authorization middleware.
 
 
+
 ## 8. Test Cases
 
-| Test ID   |         Test Scenario         |       Expected Result 
-|---------------------------------------------------------------------
-| TC01      | Valid user registration       |  Account created 
-| TC02      | Invalid email registration    | Validation error 
-| TC03      | Password mismatch             | Error message displayed 
-| TC04      | Duplicate email registration  | Registration rejected 
-| TC05      | Valid user login              | User logged in 
-| TC06      | Invalid login credentials     | Login rejected 
-| TC07      | Admin login                   | Admin access granted 
-| TC08      | Add hotel                     | Hotel added successfully 
-| TC09      | View hotels                   | Hotel list displayed 
-| TC10      | Edit hotel                    | Hotel updated successfully 
-| TC11      | Delete hotel                  | Hotel deleted successfully 
-| TC12      | Search hotel                  | Matching hotels displayed 
-| TC13      | Price filtering               | Matching price results displayed 
-| TC14      | Pagination                    | Correct page displayed 
-| TC15      | View hotel details            | Hotel details displayed 
-| TC16      | Map location                  | Hotel location displayed 
-| TC17      | User attempts Admin action    | Access denied 
-| TC18      | Logout                        | User session cleared 
+| Test ID | Test Scenario | Expected Result |
+|---------|---------------|-----------------|
+| TC01 | Valid user registration | Account created |
+| TC02 | Invalid email registration | Validation error |
+| TC03 | Password mismatch | Error message displayed |
+| TC04 | Duplicate email registration | Registration rejected |
+| TC05 | Valid user login | User logged in |
+| TC06 | Invalid login credentials | Login rejected |
+| TC07 | Admin login | Admin access granted |
+| TC08 | Add hotel | Hotel added successfully |
+| TC09 | View hotels | Hotel list displayed |
+| TC10 | Edit hotel | Hotel updated successfully |
+| TC11 | Delete hotel | Hotel deleted successfully |
+| TC12 | Search hotel | Matching hotels displayed |
+| TC13 | Price filtering | Matching price results displayed |
+| TC14 | Pagination | Correct page displayed |
+| TC15 | View hotel details | Hotel details displayed |
+| TC16 | Map location | Hotel location displayed |
+| TC17 | User attempts Admin action | Access denied |
+| TC18 | Logout | User session cleared |
 
 ## 9. Installation and Execution
 
