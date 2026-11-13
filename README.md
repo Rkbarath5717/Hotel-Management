@@ -75,8 +75,10 @@ The main objective of this project is to simplify hotel information management t
 - View complete hotel details.
 - Explore hotel locations on a map.
 
+
 ## 5. Project Folder Structure
-text
+
+```text
 Hotel-Management/
 │
 ├── backend/
@@ -117,10 +119,15 @@ Hotel-Management/
 │   └── main.jsx
 │
 ├── public/
+│   ├── hotel-logo.png
+│   └── icons.svg
+│
 ├── index.html
 ├── package.json
 ├── package-lock.json
 └── vite.config.js
+```
+
 
 ## 6. Component Description
 
@@ -130,7 +137,8 @@ Hotel-Management/
 | Navbar.jsx            | Application navigation bar 
 | HotelCard.jsx         | Displays individual hotel information 
 | HotelForm.jsx         | Add and edit hotel details 
-| HotelListPage.jsx     | Displays hotel listings, search, filters and pagination 
+| HotelListPage.jsx     | Displays hotel listings, search, filters and
+pagination 
 | HotelDetailPage.jsx   | Displays complete hotel information and map 
 | Login.jsx             | Handles user/Admin login 
 | LoginPage.jsx         | Login page component, if used in the final implementation          
@@ -138,17 +146,21 @@ Hotel-Management/
 
 ## 7. Backend API Endpoints
 ------------------------------------------------------------------
-| HTTP Method   |        Endpoint       | Purpose 
-|-----------------------------------------------------------------
-| POST          | /api/auth/register    | Register a new user 
-| POST          | /api/auth/login       | Authenticate a user 
-| GET           | /api/hotels           | Retrieve hotel listings 
-| GET           | /api/hotels/:id       | Retrieve a hotel by ID 
-| POST          | /api/hotels           | Add a hotel 
-| PUT           | /api/hotels/:id       | Update hotel details 
-| DELETE        | /api/hotels/:id       | Delete a hotel 
 
-Admin-only operations must be protected by authentication and authorization middleware.
+## 7. Backend API Endpoints
+
+| HTTP Method | Endpoint | Purpose |
+|---|---|---|
+| POST | `/api/auth/register` | Register a new user |
+| POST | `/api/auth/login` | Authenticate a user |
+| GET | `/api/hotels` | Retrieve hotel listings |
+| GET | `/api/hotels/:id` | Retrieve a hotel by ID |
+| POST | `/api/hotels` | Add a hotel |
+| PUT | `/api/hotels/:id` | Update hotel details |
+| DELETE | `/api/hotels/:id` | Delete a hotel |
+
+**Note:** Admin-only operations must be protected by authentication and authorization middleware.
+
 
 ## 8. Test Cases
 
