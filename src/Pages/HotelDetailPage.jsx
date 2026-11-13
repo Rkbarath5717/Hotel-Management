@@ -15,10 +15,7 @@ function HotelDetailPage() {
   useEffect(() => {
     const getHotel = async () => {
       try {
-        // Get login token
         const token = localStorage.getItem("token");
-
-        // Send token to backend
         const response = await fetch(
           API_URL + "/api/hotels/" + id,
           {
@@ -54,7 +51,7 @@ function HotelDetailPage() {
     return (
       <div className="detail-container">
         <h2>{error || "Hotel not found"}</h2>
-        <Link to="/hotels">Back to Hotels</Link>
+        <Link to="/hotels">*-----.....Back to Hotels......-----*</Link>
       </div>
     );
   }
@@ -77,7 +74,7 @@ function HotelDetailPage() {
       </Helmet>
 
       <Link to="/hotels" className="back-link">
-        Back to Hotels
+       *------Back to Hotels------*
       </Link>
 
       <div className="detail-card">

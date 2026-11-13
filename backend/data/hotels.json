@@ -15,16 +15,7 @@
     "latitude": 11.0181,
     "longitude": 76.9675,
     "price": 2000,
-    "image": "/uploads/1794503108867.jpg"
-  },
-  {
-    "id": 1794503202325,
-    "title": "GK Residency",
-    "description": "A luxury hotel inspired by the architecture of the Chola dynasty. It features elegant rooms and premium accommodation. Guests can enjoy multiple restaurants, swimming pools and spa facilities. It is suitable for business meetings, family stays and luxury vacations.",
-    "latitude": 13.01048,
-    "longitude": 80.22051,
-    "price": 3000,
-    "image": "/uploads/1794503202311.jpg"
+    "image": "/uploads/1794583581305.jpg"
   },
   {
     "id": 1794503242650,
@@ -34,15 +25,6 @@
     "longitude": 80.216873,
     "price": 4000,
     "image": "/uploads/1794503242644.jpg"
-  },
-  {
-    "id": 1794503297510,
-    "title": "Le Méridien Coimbatore",
-    "description": "A luxury hotel located on Avinashi Road, Neelambur. It features spacious rooms and elegant interiors. Guests can enjoy multiple dining options, a swimming pool and fitness facilities. It is suitable for corporate events, weddings and leisure stays.",
-    "latitude": 11.05915,
-    "longitude": 77.07486,
-    "price": 3500,
-    "image": "/uploads/1794503297504.jpg"
   },
   {
     "id": 1794503372323,
@@ -63,15 +45,6 @@
     "image": "/uploads/1794503421825.jpg"
   },
   {
-    "id": 1794503492135,
-    "title": "ITC Grand Goa Resort & Spa",
-    "description": "A luxury beachfront resort located in South Goa. It features beautiful gardens and Portuguese-inspired architecture. Guests can enjoy beach access, swimming pools, spa and restaurants. It is perfect for family holidays, weddings and relaxation.",
-    "latitude": 15.327638,
-    "longitude": 73.899658,
-    "price": 3000,
-    "image": "/uploads/1794503492130.jpg"
-  },
-  {
     "id": 1794503555846,
     "title": "Grand Hyatt",
     "description": "A luxury resort overlooking the beautiful Bambolim Bay. It offers elegant rooms and scenic surroundings. Guests can enjoy swimming pools, spa, restaurants and recreational activities. It is suitable for families, couples and destination weddings.",
@@ -82,11 +55,38 @@
   },
   {
     "id": 1794503605345,
-    "title": "RK RESIDENCY",
-    "description": "A beautiful beachfront resort with Portuguese-inspired architecture. It provides comfortable rooms with scenic sea views. Guests can enjoy swimming pools, beach activities and restaurants. It is a wonderful destination for relaxing holidays and family trips.",
-    "latitude": 15.4561,
-    "longitude": 73.8138,
+    "title": "Blanket Hotel & Spa",
+    "description": "A luxury resort situated near the beautiful Attukad Waterfalls. It offers scenic mountain views and comfortable rooms. Guests can enjoy spa treatments, swimming pool and multi-cuisine dining. It is perfect for honeymoon trips, nature lovers and family vacations.",
+    "latitude": 10.0605,
+    "longitude": 77.0605,
     "price": 3500,
     "image": "/uploads/1794503605339.jpg"
+  },
+  {
+    "id": 1794582906447,
+    "title": "Fortune Park JP Celestial",
+    "description": "A modern business hotel located near the city centre. It offers spacious rooms and convenient accommodation. Guests can enjoy restaurants, fitness facilities and meeting spaces. It is a suitable destination for corporate guests and family travellers.",
+    "latitude": 12.9778,
+    "longitude": 77.5773,
+    "price": 3500,
+    "image": "/uploads/1794582906422.jpg"
+  },
+  {
+    "id": 1794583425231,
+    "title": "Grand Hyatt Kochi Bolgatty",
+    "description": "A luxury waterfront hotel overlooking the beautiful Kerala backwaters. It offers elegant rooms and premium accommodation. Guests can enjoy swimming pools, spa and multiple restaurants. It is ideal for family holidays, business events and luxury vacations.",
+    "latitude": 9.9816,
+    "longitude": 76.2674,
+    "price": 3500,
+    "image": "/uploads/1794583425228.jpg"
+  },
+  {
+    "id": 1794583550064,
+    "title": "Grand Plaza Munnar",
+    "description": "A comfortable hotel located close to Munnar town. It provides well-maintained rooms with modern amenities. Guests can enjoy dining facilities and beautiful hill-station surroundings. It is a good choice for families and tourists exploring Munnar.",
+    "latitude": 10.089,
+    "longitude": 77.061,
+    "price": 4000,
+    "image": "/uploads/1794583550060.jpg"
   }
 ]

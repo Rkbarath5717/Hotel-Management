@@ -10,8 +10,6 @@ function Navbar() {
           alt="Hotel Logo"
           className="navbar-logo-image"
         />
-        <link rel="icon" href="/favicon.png" />
-
 
         <h2>Hotel Management</h2>
 

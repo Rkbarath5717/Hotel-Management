@@ -885,8 +885,6 @@
   box-shadow: 0 0 0 3px rgba(198, 166, 107, 0.2);
 }
 
-/* Registration and Login Form */
-
 .login-form label {
   color: midnightblue;
   font-weight: 600;
@@ -910,7 +908,6 @@
   font-size: 14px;
 }
 
-/* Register / Login text button */
 
 .login-form .text-button {
   background: none;
@@ -929,8 +926,6 @@
   transform: none;
   box-shadow: none;
 }
-
-/* Mobile responsive form */
 
 @media (max-width: 600px) {
   .login-form {
