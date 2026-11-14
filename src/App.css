@@ -181,7 +181,8 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 22px;
-}
+}q
+
 
 .hotel-card {
   background-color: white;
