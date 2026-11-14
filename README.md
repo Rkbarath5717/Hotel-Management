@@ -238,19 +238,21 @@ The application follows a client-server architecture.
 The frontend communicates with the backend through REST API endpoints to perform hotel management operations.
 
 
+
 ## 9. Project Screenshots
 
-### Registration Page
-![Registration Page](./ProjectPhotos/your-registration-image.png)
+### 1. Registration Page
+![Registration Page](./ProjectPhotos/registration-page.png.png)
 
-### Login Page
-![Login Page](./ProjectPhotos/your-login-image.png)
+### 2. Login Page
+![Login Page](./ProjectPhotos/login-page.png.png)
 
-### Hotel Listing Page
-![Hotel Listing](./ProjectPhotos/your-hotel-list-image.png)
+### 3. Hotel Listing Page
+![Hotel Listing](./ProjectPhotos/admin-view.png.png)
 
-### Hotel Details
-![Hotel Details](./ProjectPhotos/your-hotel-details-image.png)
+### 5. Hotel Details and Location Map
+![Hotel Details](./ProjectPhotos/hotel-details.png)
+
 
 ## 10. Project Demo Video
 
