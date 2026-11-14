@@ -241,25 +241,22 @@ The frontend communicates with the backend through REST API endpoints to perform
 ## 9. Project Screenshots
 
 ### Registration Page
-![Registration Page](./screenshots/register-page.png)
+![Registration Page](./ProjectPhotos/your-registration-image.png)
 
 ### Login Page
-![Login Page](./screenshots/login-page.png)
-
-### Registration Design
-![Registration Design](./screenshots/registration-design.png)
+![Login Page](./ProjectPhotos/your-login-image.png)
 
 ### Hotel Listing Page
-![Hotel Listing](./screenshots/hotel-list.png)
+![Hotel Listing](./ProjectPhotos/your-hotel-list-image.png)
 
-### Hotel Details and Location Map
-![Hotel Details](./screenshots/hotel-details.png)
+### Hotel Details
+![Hotel Details](./ProjectPhotos/your-hotel-details-image.png)
 
 ## 10. Project Demo Video
 
 Watch the complete demonstration of the Hotel Management System:
 
-[Watch Project Demo](c:\Users\RK_BARATH_5717\Videos\Screen Recordings\Screen Recording 2026-11-14 133303.mp4)
+[Watch Project Demo]()
 
 
 
