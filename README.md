@@ -247,11 +247,14 @@ The frontend communicates with the backend through REST API endpoints to perform
 ### 2. Login Page
 ![Login Page](./ProjectPhotos/login-page.png.png)
 
-### 3. Hotel Listing Page
+### 3. Hotel Listing Page for admin
 ![Hotel Listing](./ProjectPhotos/admin-view.png.png)
 
-### 5. Hotel Details and Location Map
-![Hotel Details](./ProjectPhotos/hotel-details.png)
+### 5. Hotel Listing Page for user
+![Hotel Listing](./ProjectPhotos/user-view.png)
+
+### 5. Hotel Details and Map location
+![Hotel Listing](./ProjectPhotos/hotel-detail.png.png)
 
 
 ## 10. Project Demo Video
