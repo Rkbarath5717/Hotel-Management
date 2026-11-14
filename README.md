@@ -238,6 +238,31 @@ The application follows a client-server architecture.
 The frontend communicates with the backend through REST API endpoints to perform hotel management operations.
 
 
+## 9. Project Screenshots
+
+### Registration Page
+![Registration Page](./screenshots/register-page.png)
+
+### Login Page
+![Login Page](./screenshots/login-page.png)
+
+### Registration Design
+![Registration Design](./screenshots/registration-design.png)
+
+### Hotel Listing Page
+![Hotel Listing](./screenshots/hotel-list.png)
+
+### Hotel Details and Location Map
+![Hotel Details](./screenshots/hotel-details.png)
+
+## 10. Project Demo Video
+
+Watch the complete demonstration of the Hotel Management System:
+
+[Watch Project Demo](c:\Users\RK_BARATH_5717\Videos\Screen Recordings\Screen Recording 2026-11-14 133303.mp4)
+
+
+
 ## 12. Conclusion
 
 The Hotel Management System demonstrates the implementation of a full-stack web application using React.js, Node.js and Express.js. It combines frontend development, REST API integration, authentication, authorization, file uploads and hotel information management in a single application.
